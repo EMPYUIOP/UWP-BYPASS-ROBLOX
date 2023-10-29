@@ -1,5 +1,5 @@
 # UWP-BYPASS-ROBLOX
-ZionBLOX bypasses all updates that will come to roblox. It bypasses the new partnership and error code 280
+ZionBLOX bypasses all updates that will come to roblox. It bypasses the new partnership and error code 280 and more.
 
 ZionBLOX instructions
 
